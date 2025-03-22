@@ -1,0 +1,17 @@
+{
+ name: "Offmonprst-001",
+ creator: "@offmon.senpai_",
+ judul: "Dj faja skli",
+ preset: { 
+      portrait: {
+      link: "https://alightcreative.com/am/share/u/9wUV6ZcT3mOkMsselOwtaUFD1v63/p/fVJrdmJfdM-6e5d68ad18db4ce9",
+      xml: "https://drive.google.com/file/d/11zAmnMRfn88urkQtDJ7E2HerMdqnbYHE/view?usp=drivesdk"
+      },
+      blok: {
+      link: "https://alightcreative.com/am/share/u/9wUV6ZcT3mOkMsselOwtaUFD1v63/p/mWCAaDGkJt-a60f67f3b5122cba",
+      xml: "https://drive.google.com/file/d/11zVLFB4R6MqePI7IMnux3ZTtJEi5Ie5i/view?usp=drivesdk"
+      }
+    },
+    videos: "https://vt.tiktok.com/ZSr1WsyLB/",
+    music: "Not-found"
+}
